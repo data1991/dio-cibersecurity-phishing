@@ -23,8 +23,14 @@ Desafio de Projeto - Criando Phishing com o Kali Linux
 ##### 6° Método de ataque: Credential Harvester Attack Method
 ##### 7° Ataque: Site Cloner
 ##### 8° Endereço IP só dar um Enter
-##### 9° URL para clone:(http://www.facebook.com)
+##### 9° URL para clone:http://www.facebook.com
+
+Obs: responda y para as perguntas feitas ao longo da configuração.
 
 ### Resultados
+
+![Resultado](https://github.com/data1991/dio-cibersecurity-phishing/assets/144493849/9e33e498-590a-4fc1-b2ba-5cc6c8748f1e)
+
+Por motivos de segurança o Windows bloqueou o acesso via e-mail e senha fack só me dando algumas sugestões de senhas fortes durante o Attack via Kali Linux. Por encrível que pareça eu desabilitei o anti-virus do Windows e fiz algumas outras configurações, mas não deu certo.
 
 
