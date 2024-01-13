@@ -10,4 +10,6 @@ Fique atento para configurar a Rede no Kali Linux. Segue o passo-a-passo
 
 ![Configuração 01](https://github.com/data1991/dio-cibersecurity-phishing/assets/144493849/ce982902-1459-4b55-9aac-e9668eea77f6)
 
+![Configuração 02](https://github.com/data1991/dio-cibersecurity-phishing/assets/144493849/e18e4fd8-eecd-4ff2-8203-80be3fea33a0)
+
 
