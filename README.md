@@ -2,7 +2,7 @@
 Desafio de Projeto - Criando Phishing com o Kali Linux
 
 #  Ferramentas Utilizadas:
--> Kali Linux versão Fedora
--> Setoolkit
+### . Kali Linux versão Fedora
+### . setoolkit
 
 
