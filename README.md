@@ -2,7 +2,7 @@
 Desafio de Projeto - Criando Phishing com o Kali Linux
 
 ###  Ferramentas Utilizadas:
-##### . Kali Linux versão Fedora
+##### . Kali Linux versão 2022.3 Debian
 ##### . setoolkit
 
 ### Configurando a Rede no Kali Linux
@@ -15,8 +15,8 @@ Desafio de Projeto - Criando Phishing com o Kali Linux
 
 ### Configurando o Phishing no Kali Linux
 
-##### 1° exit para migrar para o diretório raiz 
-##### 2° sudo su para acessar o usuário root
+##### 1° exit: para migrar para o diretório raiz 
+##### 2° sudo su: para acessar o usuário root
 ##### 3° Iniciando o setoolkit: setoolkit
 ##### 4° Tipo do ataque: Social-Enginnering Attacks
 ##### 5° Vetor de ataque: Web Site Attack Vectors
